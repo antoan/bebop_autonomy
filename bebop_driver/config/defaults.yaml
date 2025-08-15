@@ -26,3 +26,8 @@ reset_settings: true
 publish_odom_tf: true
 odom_frame_id: "odom"
 cmd_vel_timeout: 0.2
+
+PilotingSettingsMaxAltitudeCurrent: 0.5
+SpeedSettingsMaxVerticalSpeedCurrent: 0.5
+PilotingSettingsMaxDistanceValue: 2.0
+PilotingSettingsNoFlyOverMaxDistanceShouldnotflyover: 1
